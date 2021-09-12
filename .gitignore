@@ -134,3 +134,4 @@ dmypy.json
 *.index
 checkpoints/
 archive/
+*.mp4
